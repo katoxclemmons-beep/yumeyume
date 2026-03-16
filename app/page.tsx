@@ -34,6 +34,7 @@ const featuredProducts: Product[] = [
     price: "¥2,200",
     amazonUrl: "https://www.amazon.co.jp/dp/B08CNCSKN9",
     imageContain: true,
+    imageScale: "scale-105",
   },
 ]
 
