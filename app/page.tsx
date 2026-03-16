@@ -15,7 +15,7 @@ const featuredProducts: Product[] = [
     amazonUrl: "https://amzn.asia/d/0dthnvxh",
     badge: "人気No.1",
     imageContain: true,
-    imageScale: "scale-105",
+    imageScale: "scale-110",
   },
   {
     name: "Skala(スカラ) Crespo Divino カールヘア用 3 in 1 リーブインクリーム 250g",
@@ -26,7 +26,7 @@ const featuredProducts: Product[] = [
     amazonUrl: "https://amzn.asia/d/06LsSTxD",
     badge: "新着",
     imageContain: true,
-    imageScale: "scale-125",
+    imageScale: "scale-110",
   },
   {
     name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
