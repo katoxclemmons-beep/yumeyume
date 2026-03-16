@@ -26,7 +26,7 @@ export function ProductCard({ product }: { product: Product }) {
           src={product.image}
           alt={product.name}
           fill
-          className={`${product.imageContain ? `object-contain ${product.imageScale ?? "scale-90"} group-hover:scale-150` : "object-cover group-hover:scale-105"} transition-transform duration-500`}
+          className={`${product.imageContain ? `object-contain ${product.imageScale ?? "scale-90"} group-hover:scale-[1.15]` : "object-cover group-hover:scale-105"} transition-transform duration-500`}
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
         />
       </div>
