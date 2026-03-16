@@ -7,7 +7,7 @@ export function Footer() {
           <div className="text-center md:text-left">
             <span className="text-lg font-bold text-primary">ゆめゆめちゃんねる</span>
             <p className="mt-1 text-xs text-muted-foreground">
-              くせ毛・カーリーヘアのためのヘアケアガイド
+              カーリーヘアのためのヘアケアガイド
             </p>
           </div>
 
@@ -17,7 +17,7 @@ export function Footer() {
               おすすめ商品
             </a>
             <a href="#kusege" className="hover:text-primary transition-colors">
-              くせ毛ケア
+              カーリーケア
             </a>
             <a href="#styling" className="hover:text-primary transition-colors">
               スタイリング

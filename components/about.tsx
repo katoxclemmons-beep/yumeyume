@@ -3,9 +3,9 @@ import { Heart, Sparkles, Star } from "lucide-react"
 const features = [
   {
     icon: Heart,
-    title: "くせ毛を愛そう",
+    title: "カールを愛そう",
     description:
-      "天然のカールは個性。無理にストレートにせず、くせ毛の美しさを活かすケアを提案します。",
+      "天然のカールは個性。無理にストレートにせず、カーリーヘアの美しさを活かすケアを提案します。",
   },
   {
     icon: Sparkles,
@@ -17,7 +17,7 @@ const features = [
     icon: Star,
     title: "あなたに合ったケアを",
     description:
-      "くせ毛の種類に合わせて、最適なヘアケアアイテムを見つけるお手伝いをします。",
+      "カールの種類に合わせて、最適なヘアケアアイテムを見つけるお手伝いをします。",
   },
 ]
 
@@ -34,10 +34,10 @@ export function About() {
 
         <div className="max-w-2xl mx-auto text-center mb-14">
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed text-pretty">
-            「ゆめゆめちゃんねる」は、くせ毛やカーリーヘアで悩む方に向けて、
-            自分の髪をもっと好きになれるようなヘアケア情報をお届けするサイトです。
-            ハーフの方や天然くせ毛の方など、
-            カールヘアを楽しみたい全ての方のために作りました。
+            「ゆめゆめちゃんねる」は、カーリーヘアをもっと好きになりたい方に向けて、
+            自分の髪の魅力を引き出すヘアケア情報をお届けするサイトです。
+            ハーフの方や天然カールの方など、
+            カーリーヘアを楽しみたい全ての方のために作りました。
           </p>
         </div>
 

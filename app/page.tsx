@@ -20,7 +20,7 @@ const featuredProducts: Product[] = [
   {
     name: "Skala(スカラ) Crespo Divino カールヘア用 3 in 1 リーブインクリーム 250g",
     description:
-      "くせ毛・カール専用の洗い流し不要クリーム。ほつれをほぐしながらカールを定義し、しっとりまとまる髪へ。",
+      "カーリーヘア専用の洗い流し不要クリーム。ほつれをほぐしながらカールを定義し、しっとりまとまる髪へ。",
     image: "/images/Skala(スカラ) Crespo Divino_.png",
     price: "¥1,980",
     amazonUrl: "https://amzn.asia/d/06LsSTxD",
@@ -44,7 +44,7 @@ const kusegeProducts: Product[] = [
   {
     name: "ボタニスト ボタニカルヘアオイル モイスト",
     description:
-      "植物由来のヘアオイルが、くせ毛のパサつきを抑えてツヤのある髪に。軽い付け心地でベタつかない。",
+      "植物由来のヘアオイルが、カーリーヘアのパサつきを抑えてツヤのある髪に。軽い付け心地でベタつかない。",
     image: "/images/product-oil.jpg",
     price: "¥1,870",
     amazonUrl: "https://www.amazon.co.jp/dp/example4?tag=your-affiliate-tag",
@@ -53,7 +53,7 @@ const kusegeProducts: Product[] = [
   {
     name: "アミノメイソン ディープモイスト シャンプー",
     description:
-      "スーパーアミノ酸とボタニカル成分でダメージを補修。くせ毛のまとまりやすさを実感できる。",
+      "スーパーアミノ酸とボタニカル成分でダメージを補修。カーリーヘアのまとまりやすさを実感できる。",
     image: "/images/product-shampoo.jpg",
     price: "¥1,540",
     amazonUrl: "https://www.amazon.co.jp/dp/example5?tag=your-affiliate-tag",
@@ -61,7 +61,7 @@ const kusegeProducts: Product[] = [
   {
     name: "モロッカンオイル トリートメント",
     description:
-      "世界中で愛されるアルガンオイルトリートメント。くせ毛を柔らかくしながら輝くようなツヤを与えます。",
+      "世界中で愛されるアルガンオイルトリートメント。カーリーヘアを柔らかくしながら輝くようなツヤを与えます。",
     image: "/images/product-conditioner.jpg",
     price: "¥4,730",
     amazonUrl: "https://www.amazon.co.jp/dp/example6?tag=your-affiliate-tag",
@@ -102,7 +102,7 @@ export default function Home() {
         <ProductSection
           id="products"
           title="おすすめ商品"
-          subtitle="くせ毛・カールヘアのケアに本当に使えるアイテムを厳選しました"
+          subtitle="カーリーヘアのケアに本当に使えるアイテムを厳選しました"
           products={featuredProducts}
         />
 
@@ -114,7 +114,7 @@ export default function Home() {
         {/* Kusege Products */}
         <ProductSection
           id="kusege"
-          title="くせ毛向けおすすめ商品"
+          title="カーリーヘア向けおすすめ商品"
           subtitle="天然のうねりやくせを活かして、まとまりのある美髪へ"
           products={kusegeProducts}
         />
