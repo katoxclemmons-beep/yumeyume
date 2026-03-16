@@ -7,7 +7,7 @@ export function Footer() {
           <div className="text-center md:text-left">
             <span className="text-lg font-bold text-primary">ゆめゆめちゃんねる</span>
             <p className="mt-1 text-xs text-muted-foreground">
-              くせ毛・カールヘアのためのヘアケアガイド
+              くせ毛・カーリーヘアのためのヘアケアガイド
             </p>
           </div>
 
