@@ -34,7 +34,7 @@ const featuredProducts: Product[] = [
       "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
     image: "/images/Salon Line Cachos Poderosos.png",
     price: "¥2,200",
-    amazonUrl: "https://www.amazon.co.jp/dp/B08CNCSKN9",
+    amazonUrl: "https://amzn.to/4bmuVBL",
     imageContain: true,
     imageScale: "scale-105",
   },
