@@ -19,9 +19,6 @@ export function Footer() {
             <a href="#kusege" className="hover:text-primary transition-colors">
               くせ毛ケア
             </a>
-            <a href="#perm" className="hover:text-primary transition-colors">
-              パーマケア
-            </a>
             <a href="#styling" className="hover:text-primary transition-colors">
               スタイリング
             </a>
