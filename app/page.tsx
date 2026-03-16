@@ -17,21 +17,21 @@ const featuredProducts: Product[] = [
     imageContain: true,
   },
   {
-    name: "ジョンマスターオーガニック C&Nコンディショナー",
+    name: "Skala(スカラ) Crespo Divino カールヘア用 3 in 1 リーブインクリーム 250g",
     description:
-      "シトラス&ネロリの香りが心地よい、天然由来成分のコンディショナー。カールの弾力を保ちつつ、指通りなめらかに。",
-    image: "/images/product-conditioner.jpg",
-    price: "¥3,740",
-    amazonUrl: "https://www.amazon.co.jp/dp/example2?tag=your-affiliate-tag",
-    badge: "オーガニック",
+      "くせ毛・カール専用の洗い流し不要クリーム。ほつれをほぐしながらカールを定義し、しっとりまとまる髪へ。",
+    image: "/images/product-cream.jpg",
+    price: "¥1,980",
+    amazonUrl: "https://amzn.asia/d/06LsSTxD",
+    badge: "新着",
   },
   {
-    name: "ロレアル パリ エルセーヴ カールケア クリーム",
+    name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
     description:
-      "カールを長時間キープしながら、うるおいを閉じ込めるスタイリングクリーム。べたつかず自然な仕上がり。",
-    image: "/images/product-cream.jpg",
-    price: "¥1,078",
-    amazonUrl: "https://www.amazon.co.jp/dp/example3?tag=your-affiliate-tag",
+      "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
+    image: "/images/product-mousse.jpg",
+    price: "¥2,200",
+    amazonUrl: "https://www.amazon.co.jp/dp/B08CNCSKN9",
   },
 ]
 
@@ -101,14 +101,6 @@ const stylingProducts: Product[] = [
     price: "¥658",
     amazonUrl: "https://www.amazon.co.jp/dp/example10?tag=your-affiliate-tag",
     badge: "コスパ◎",
-  },
-  {
-    name: "ジョバンニ フリッズビーゴーン セラム",
-    description:
-      "フリッズ（広がり）を抑えるセラム。湿気の多い日でもまとまりのあるカールスタイルをキープ。",
-    image: "/images/product-mist.jpg",
-    price: "¥1,980",
-    amazonUrl: "https://www.amazon.co.jp/dp/example11?tag=your-affiliate-tag",
   },
   {
     name: "プロダクト ヘアワックス",
