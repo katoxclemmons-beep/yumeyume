@@ -101,7 +101,7 @@ export default function Home() {
         {/* Featured Products */}
         <ProductSection
           id="products"
-          title="おすすめ商品"
+          title="お気に入り商品"
           subtitle="カーリーヘアのケアに本当に使えるアイテムを厳選しました"
           products={featuredProducts}
         />
@@ -114,7 +114,7 @@ export default function Home() {
         {/* Kusege Products */}
         <ProductSection
           id="kusege"
-          title="カーリーヘア向けおすすめ商品"
+          title="カーリーヘア向けお気に入り商品"
           subtitle="天然のうねりやくせを活かして、まとまりのある美髪へ"
           products={kusegeProducts}
         />

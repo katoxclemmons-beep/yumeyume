@@ -4,7 +4,7 @@ import { useState } from "react"
 import { Menu, X } from "lucide-react"
 
 const navLinks = [
-  { href: "#products", label: "おすすめ商品" },
+  { href: "#products", label: "お気に入り商品" },
   { href: "#kusege", label: "カーリーケア" },
   { href: "#styling", label: "スタイリング" },
   { href: "#about", label: "このサイトについて" },

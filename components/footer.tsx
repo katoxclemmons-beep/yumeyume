@@ -14,7 +14,7 @@ export function Footer() {
           {/* Nav */}
           <nav className="flex flex-wrap justify-center gap-4 text-sm text-muted-foreground" aria-label="フッターナビゲーション">
             <a href="#products" className="hover:text-primary transition-colors">
-              おすすめ商品
+              お気に入り商品
             </a>
             <a href="#kusege" className="hover:text-primary transition-colors">
               カーリーケア

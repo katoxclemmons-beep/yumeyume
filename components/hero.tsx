@@ -24,7 +24,7 @@ export function Hero() {
                 href="#products"
                 className="inline-flex items-center justify-center rounded-xl bg-primary text-primary-foreground px-8 py-3 text-sm font-medium shadow-sm hover:opacity-90 transition-opacity"
               >
-                おすすめ商品を見る
+                お気に入り商品を見る
               </a>
               <a
                 href="#about"
