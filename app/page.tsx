@@ -23,7 +23,7 @@ const featuredProducts: Product[] = [
       "カーリーヘア専用の洗い流し不要クリーム。ほつれをほぐしながらカールを定義し、しっとりまとまる髪へ。",
     image: "/images/Skala(スカラ) Crespo Divino_.png",
     price: "¥1,980",
-    amazonUrl: "https://amzn.asia/d/06LsSTxD",
+    amazonUrl: "https://amzn.to/4cQIXwr",
     badge: "新着",
     imageContain: true,
     imageScale: "scale-110",
