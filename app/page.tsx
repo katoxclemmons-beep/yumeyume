@@ -69,33 +69,6 @@ const kusegeProducts: Product[] = [
   },
 ]
 
-const permProducts: Product[] = [
-  {
-    name: "ナプラ N. カールエンハンサー",
-    description:
-      "パーマの形状を記憶させる独自処方。ウェーブを美しくキープしながら、しっとり感も持続。",
-    image: "/images/product-cream.jpg",
-    price: "¥2,200",
-    amazonUrl: "https://www.amazon.co.jp/dp/example7?tag=your-affiliate-tag",
-    badge: "サロン品質",
-  },
-  {
-    name: "ミルボン ジェミールフラン メルティバター",
-    description:
-      "体温でとろけるバター状トリートメント。パーマヘアの乾燥ダメージを集中補修し、弾力のあるカールに。",
-    image: "/images/product-oil.jpg",
-    price: "¥2,640",
-    amazonUrl: "https://www.amazon.co.jp/dp/example8?tag=your-affiliate-tag",
-  },
-  {
-    name: "ルベル モイ クリーム グローリーゼア",
-    description:
-      "自然由来成分100%のスタイリングクリーム。パーマのカールを柔らかく整え、ナチュラルな束感を演出。",
-    image: "/images/product-mist.jpg",
-    price: "¥2,860",
-    amazonUrl: "https://www.amazon.co.jp/dp/example9?tag=your-affiliate-tag",
-  },
-]
 
 const stylingProducts: Product[] = [
   {
@@ -145,16 +118,6 @@ export default function Home() {
           subtitle="天然のうねりやくせを活かして、まとまりのある美髪へ"
           products={kusegeProducts}
         />
-
-        {/* Perm Products */}
-        <div className="bg-secondary">
-          <ProductSection
-            id="perm"
-            title="パーマヘア用ケア商品"
-            subtitle="パーマの持ちを良くし、美しいウェーブを長くキープ"
-            products={permProducts}
-          />
-        </div>
 
         {/* Styling Products */}
         <ProductSection

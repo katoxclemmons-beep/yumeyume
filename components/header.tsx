@@ -6,7 +6,6 @@ import { Menu, X } from "lucide-react"
 const navLinks = [
   { href: "#products", label: "おすすめ商品" },
   { href: "#kusege", label: "くせ毛ケア" },
-  { href: "#perm", label: "パーマケア" },
   { href: "#styling", label: "スタイリング" },
   { href: "#about", label: "このサイトについて" },
 ]
