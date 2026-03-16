@@ -20,18 +20,20 @@ const featuredProducts: Product[] = [
     name: "Skala(スカラ) Crespo Divino カールヘア用 3 in 1 リーブインクリーム 250g",
     description:
       "くせ毛・カール専用の洗い流し不要クリーム。ほつれをほぐしながらカールを定義し、しっとりまとまる髪へ。",
-    image: "/images/product-cream.jpg",
+    image: "/images/Skala(スカラ) Crespo Divino_.png",
     price: "¥1,980",
     amazonUrl: "https://amzn.asia/d/06LsSTxD",
     badge: "新着",
+    imageContain: true,
   },
   {
     name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
     description:
       "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
-    image: "/images/product-mousse.jpg",
+    image: "/images/Salon Line Cachos Poderosos.png",
     price: "¥2,200",
     amazonUrl: "https://www.amazon.co.jp/dp/B08CNCSKN9",
+    imageContain: true,
   },
 ]
 
