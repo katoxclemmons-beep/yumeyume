@@ -14,6 +14,7 @@ const featuredProducts: Product[] = [
     price: "¥1,980",
     amazonUrl: "https://amzn.asia/d/0dthnvxh",
     badge: "人気No.1",
+    imageContain: true,
   },
   {
     name: "ジョンマスターオーガニック C&Nコンディショナー",
