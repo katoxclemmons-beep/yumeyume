@@ -39,7 +39,7 @@ export function Hero() {
           <div className="flex-1 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-xl ring-4 ring-primary/20">
               <Image
-                src="/images/hero-curls.jpg"
+                src="/images/yumeyumechannel profile.png"
                 alt="カールヘアの女性"
                 fill
                 className="object-cover"
