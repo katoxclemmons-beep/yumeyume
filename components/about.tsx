@@ -17,7 +17,7 @@ const features = [
     icon: Star,
     title: "あなたに合ったケアを",
     description:
-      "くせ毛の種類やパーマの状態に合わせて、最適なヘアケアアイテムを見つけるお手伝いをします。",
+      "くせ毛の種類に合わせて、最適なヘアケアアイテムを見つけるお手伝いをします。",
   },
 ]
 
@@ -34,9 +34,9 @@ export function About() {
 
         <div className="max-w-2xl mx-auto text-center mb-14">
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed text-pretty">
-            「ゆめゆめちゃんねる」は、くせ毛やパーマヘアで悩む方に向けて、
+            「ゆめゆめちゃんねる」は、くせ毛やカーリーヘアで悩む方に向けて、
             自分の髪をもっと好きになれるようなヘアケア情報をお届けするサイトです。
-            ハーフの方や天然パーマの方、パーマをかけている方など、
+            ハーフの方や天然くせ毛の方など、
             カールヘアを楽しみたい全ての方のために作りました。
           </p>
         </div>
