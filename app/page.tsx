@@ -26,6 +26,7 @@ const featuredProducts: Product[] = [
     amazonUrl: "https://amzn.asia/d/06LsSTxD",
     badge: "新着",
     imageContain: true,
+    imageScale: "scale-125",
   },
   {
     name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
