@@ -7,12 +7,12 @@ import type { Product } from "@/components/product-card"
 
 const featuredProducts: Product[] = [
   {
-    name: "モイストダイアン パーフェクトビューティー シャンプー",
+    name: "Skala(スカラ) Mais Cachos マイスカショス カールヘア用 3 in 1 リーブインクリーム 250g",
     description:
-      "オーガニックアルガンオイル配合で、くせ毛のうねりを整えながらしっとりまとまる髪へ。洗い上がりもなめらか。",
-    image: "/images/product-shampoo.jpg",
-    price: "¥1,540",
-    amazonUrl: "https://www.amazon.co.jp/dp/example1?tag=your-affiliate-tag",
+      "洗い流し不要の3in1リーブインクリーム。カールの定義・保湿・ほつれ解消を一本でケア。ブラジル発のカールヘア専門ブランド。",
+    image: "/images/product-cream.jpg",
+    price: "¥1,980",
+    amazonUrl: "https://amzn.asia/d/0dthnvxh",
     badge: "人気No.1",
   },
   {
