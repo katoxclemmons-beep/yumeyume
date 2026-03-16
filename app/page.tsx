@@ -12,7 +12,7 @@ const featuredProducts: Product[] = [
       "洗い流し不要の3in1リーブインクリーム。カールの定義・保湿・ほつれ解消を一本でケア。ブラジル発のカールヘア専門ブランド。",
     image: "/images/Product Skala.png",
     price: "¥1,980",
-    amazonUrl: "https://amzn.asia/d/0dthnvxh",
+    amazonUrl: "https://amzn.to/471Pi4s",
     badge: "人気No.1",
     imageContain: true,
     imageScale: "scale-110",
