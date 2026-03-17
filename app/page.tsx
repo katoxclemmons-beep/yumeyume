@@ -45,7 +45,7 @@ const kusegeProducts: Product[] = [
     name: "Jigee Curls ジギーカールズ カールスタイリングクリーム 200g",
     description:
       "日本製のカール専用スタイリングクリーム。くせ毛・パーマ・天然カールヘアのうねりを活かして、まとまりのある仕上がりへ。",
-    image: "/images/product-jigee-curls.jpg",
+    image: "/images/Jigee Curls.png",
     price: "¥---",
     amazonUrl: "https://amzn.to/475aQxb",
     badge: "国産",
@@ -55,7 +55,7 @@ const kusegeProducts: Product[] = [
     name: "SheaMoisture Coconut & Hibiscus Curl Hold Smoothie 340g",
     description:
       "ココナッツとハイビスカス配合のカールスムージー。カールを定義しながら自然なツヤと柔軟性を一日キープ。",
-    image: "/images/product-shea-moisture.jpg",
+    image: "/images/SheaMoisture.png",
     price: "¥---",
     amazonUrl: "https://amzn.to/3PaeKPa",
     imageContain: true,
@@ -64,7 +64,7 @@ const kusegeProducts: Product[] = [
     name: "Denman Curly Hair Brush D14 5列 カールブラシ",
     description:
       "カーリーヘアのほつれをほぐし、カールを整えるための定番ブラシ。シェイピング・デタングリングを一本でこなす。",
-    image: "/images/product-denman-brush.jpg",
+    image: "/images/Denman Curly Brush.png",
     price: "¥---",
     amazonUrl: "https://amzn.to/4rvbNWL",
     badge: "定番",
@@ -78,7 +78,7 @@ const stylingProducts: Product[] = [
     name: "Wavytalk スチームストレートブラシ 3in1 ヘアケアブラシ",
     description:
       "スチーム機能搭載の3in1ヘアアイロンブラシ。ダメージを抑えながら髪を栄養補給しつつ、すばやくスタイリングできる。",
-    image: "/images/product-wavytalk.jpg",
+    image: "/images/Wavytalk steam straigten.png",
     price: "¥---",
     amazonUrl: "https://amzn.to/4bxEtIZ",
     badge: "多機能",
