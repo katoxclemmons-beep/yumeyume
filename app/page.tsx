@@ -54,16 +54,6 @@ const kusegeProducts: Product[] = [
     imageScale: "scale-100",
   },
   {
-    name: "SheaMoisture Coconut & Hibiscus Curl Hold Smoothie 340g",
-    description:
-      "ココナッツとハイビスカス配合のカールスムージー。カールを定義しながら自然なツヤと柔軟性を一日キープ。",
-    image: "/images/SheaMoisture.png",
-    price: "¥---",
-    amazonUrl: "https://amzn.to/3PaeKPa",
-    imageContain: true,
-    imageScale: "scale-100",
-  },
-  {
     name: "Denman Curly Hair Brush D14 5列 カールブラシ",
     description:
       "カーリーヘアのほつれをほぐし、カールを整えるための定番ブラシ。シェイピング・デタングリングを一本でこなす。",
@@ -100,12 +90,12 @@ const stylingProducts: Product[] = [
     imageScale: "scale-100",
   },
   {
-    name: "Eco Styler オリーブオイル スタイリングジェル 340g",
+    name: "SheaMoisture Coconut & Hibiscus Curl Hold Smoothie 340g",
     description:
-      "オリーブオイル配合の大容量スタイリングジェル。カールをしっかり固めながら髪に潤いを与え、自然なツヤのある仕上がりに。",
-    image: "/images/Eco Styling Gel.png",
+      "ココナッツとハイビスカス配合のカールスムージー。カールを定義しながら自然なツヤと柔軟性を一日キープ。",
+    image: "/images/SheaMoisture.png",
     price: "¥---",
-    amazonUrl: "https://amzn.to/40ASNv3",
+    amazonUrl: "https://amzn.to/3PaeKPa",
     imageContain: true,
     imageScale: "scale-100",
   },
