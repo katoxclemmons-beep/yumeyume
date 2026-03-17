@@ -2,7 +2,6 @@ const socials = [
   {
     name: "TikTok",
     handle: "@dream_curl_yume",
-    description: "カーリーヘアのスタイリング動画やケアのコツを毎日発信中！",
     url: "https://www.tiktok.com/@dream_curl_yume?is_from_webapp=1&sender_device=pc",
     icon: (
       <svg viewBox="0 0 24 24" fill="currentColor" className="w-7 h-7">
@@ -15,7 +14,6 @@ const socials = [
   {
     name: "Instagram",
     handle: "@yume.victoria",
-    description: "カーリーヘアのビフォーアフターや日常のスタイルを投稿しています。",
     url: "https://www.instagram.com/yume.victoria/",
     icon: (
       <svg viewBox="0 0 24 24" fill="currentColor" className="w-7 h-7">
@@ -53,14 +51,13 @@ export function About() {
               href={s.url}
               target="_blank"
               rel="noopener noreferrer nofollow"
-              className={`group bg-card rounded-2xl p-8 text-center border border-border shadow-sm hover:shadow-md transition-all duration-300 ${s.bg}`}
+              className={`group bg-card rounded-2xl p-6 text-center border border-border shadow-sm hover:shadow-md transition-all duration-300 ${s.bg}`}
             >
-              <div className="inline-flex items-center justify-center w-14 h-14 rounded-full bg-accent mb-5">
+              <div className="inline-flex items-center justify-center w-14 h-14 rounded-full bg-accent mb-4">
                 <span className={s.iconColor}>{s.icon}</span>
               </div>
               <h3 className="text-lg font-bold text-foreground mb-1">{s.name}</h3>
-              <p className="text-sm text-primary font-medium mb-3">{s.handle}</p>
-              <p className="text-sm text-muted-foreground leading-relaxed">{s.description}</p>
+              <p className="text-sm text-primary font-medium">{s.handle}</p>
             </a>
           ))}
         </div>
