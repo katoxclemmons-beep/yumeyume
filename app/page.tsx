@@ -134,7 +134,7 @@ export default function Home() {
         {/* Kusege Products */}
         <ProductSection
           id="kusege"
-          title="スタイリングツール"
+          title="カーリーケア"
           subtitle="整える・つくる・扱いやすくするためのアイテム"
           products={kusegeProducts}
         />
