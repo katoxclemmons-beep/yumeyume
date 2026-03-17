@@ -9,7 +9,7 @@ const featuredProducts: Product[] = [
   {
     name: "Skala(スカラ) Mais Cachos マイスカショス カールヘア用 3 in 1 リーブインクリーム 250g",
     description:
-      "洗い流し不要の3in1リーブインクリーム。カールの定義・保湿・ほつれ解消を一本でケア。ブラジル発のカールヘア専門ブランド。",
+      "洗い流し不要の3in1リーブインクリーム。カールを整えて、保湿・ほつれ解消を一本でケア。ブラジル発のカールヘア専門ブランド。",
     image: "/images/Product Skala.png",
     price: "¥1,980",
     amazonUrl: "https://amzn.to/471Pi4s",
