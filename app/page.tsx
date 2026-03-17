@@ -88,6 +88,27 @@ const stylingProducts: Product[] = [
     imageContain: true,
     imageScale: "scale-100",
   },
+  {
+    name: "Jigee Curls ジギーカールズ カールスタイリングジェル 200g",
+    description:
+      "日本製のカール専用スタイリングジェル。くせ毛・パーマ・天然カールをしっかり定義して、一日中崩れないスタイルをキープ。",
+    image: "/images/product-jigee-curls-gel.jpg",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/3Nt2A3o",
+    badge: "国産",
+    imageContain: true,
+    imageScale: "scale-100",
+  },
+  {
+    name: "Eco Styler オリーブオイル スタイリングジェル 340g",
+    description:
+      "オリーブオイル配合の大容量スタイリングジェル。カールをしっかり固めながら髪に潤いを与え、自然なツヤのある仕上がりに。",
+    image: "/images/product-eco-styler.jpg",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/40ASNv3",
+    imageContain: true,
+    imageScale: "scale-100",
+  },
 ]
 
 export default function Home() {
