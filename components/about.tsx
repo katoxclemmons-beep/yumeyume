@@ -40,10 +40,9 @@ export function About() {
 
         <div className="max-w-2xl mx-auto text-center mb-14">
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed text-pretty">
-            「ゆめゆめちゃんねる」は、カーリーヘアをもっと好きになりたい方に向けて、
-            自分の髪の魅力を引き出すヘアケア情報をお届けするサイトです。
-            ハーフの方や天然カールの方など、
-            カーリーヘアを楽しみたい全ての方のために作りました。
+            「ゆめゆめちゃんねる」は、カーリーヘアをもっと好きになりたい人のためのサイトです。
+            実際に使ってよかったアイテムや、カールをきれいに出せる商品を紹介しています。
+            ハーフの方や天然カールの方など、カーリーヘアを楽しみたい人に向けて発信しています。
           </p>
         </div>
 
