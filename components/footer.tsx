@@ -31,11 +31,9 @@ export function Footer() {
         {/* Amazon Affiliate Disclaimer */}
         <div className="mt-8 pt-6 border-t border-border">
           <p className="text-xs text-muted-foreground text-center leading-relaxed max-w-2xl mx-auto">
-            ※ 当サイトはAmazonアソシエイト・プログラムの参加者です。
-            当サイトの商品リンクを経由してAmazonでお買い物をされた場合、
-            当サイトに紹介料が支払われることがあります。
-            商品の価格や在庫状況は変動する場合がありますので、
-            最新の情報はAmazonの商品ページでご確認ください。
+            【広告・アフィリエイト表示】当サイトはAmazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである「Amazonアソシエイト・プログラム」の参加者です。
+            当サイトの商品リンクを経由してAmazonでお買い物をされた場合、当サイトに紹介料が支払われることがあります。
+            商品の価格や在庫状況は変動する場合がありますので、最新の情報はAmazonの商品ページでご確認ください。
           </p>
         </div>
 
