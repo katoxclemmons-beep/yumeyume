@@ -37,7 +37,10 @@ export function ProductCard({ product }: { product: Product }) {
         <p className="mt-2 text-sm text-muted-foreground leading-relaxed flex-1">
           {product.description}
         </p>
-        <p className="mt-3 text-lg font-bold text-primary">{product.price}</p>
+        <p className="mt-3 text-lg font-bold text-primary">
+          {product.price.replace(" 税込", "")}
+          <span className="text-xs font-normal text-muted-foreground ml-1">税込</span>
+        </p>
         <a
           href={product.amazonUrl}
           target="_blank"

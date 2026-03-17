@@ -11,7 +11,7 @@ const featuredProducts: Product[] = [
     description:
       "洗い流し不要の3in1リーブインクリーム。カールを整えて、保湿・ほつれ解消を一本でケア。ブラジル発のカールヘア専門ブランド。",
     image: "/images/Product Skala.png",
-    price: "¥1,980",
+    price: "¥1,650 税込",
     amazonUrl: "https://amzn.to/471Pi4s",
     badge: "人気No.1",
     imageContain: true,
@@ -22,7 +22,7 @@ const featuredProducts: Product[] = [
     description:
       "カーリーヘア専用の洗い流し不要クリーム。ほつれをほぐしながらカールをきれいに出しながら、しっとりまとまる髪へ。",
     image: "/images/Skala(スカラ) Crespo Divino_.png",
-    price: "¥1,980",
+    price: "¥1,485 税込",
     amazonUrl: "https://amzn.to/4cQIXwr",
     badge: "新着",
     imageContain: true,
@@ -33,7 +33,7 @@ const featuredProducts: Product[] = [
     description:
       "日本製のカール専用スタイリングクリーム。くせ毛・パーマ・天然カールヘアのうねりを活かして、まとまりのある仕上がりへ。",
     image: "/images/Jigee Curls.png",
-    price: "¥---",
+    price: "¥3,570 税込",
     amazonUrl: "https://amzn.to/475aQxb",
     badge: "国産",
     imageContain: true,
@@ -47,7 +47,7 @@ const kusegeProducts: Product[] = [
     description:
       "スチーム機能搭載の3in1ヘアアイロンブラシ。ダメージを抑えながら髪を栄養補給しつつ、すばやくスタイリングできる。",
     image: "/images/Wavytalk steam straigten.png",
-    price: "¥---",
+    price: "¥10,499 税込",
     amazonUrl: "https://amzn.to/4bxEtIZ",
     badge: "多機能",
     imageContain: true,
@@ -58,7 +58,7 @@ const kusegeProducts: Product[] = [
     description:
       "風量がしっかりあるから乾くのが早く、忙しいときにも使いやすいドライヤー。ディフューザー付きで、カールをつぶさず自然に仕上げられます。",
     image: "/images/Airflow Dryer.png",
-    price: "¥---",
+    price: "¥3,480 税込",
     amazonUrl: "https://amzn.to/4do89um",
     imageContain: true,
     imageScale: "scale-100",
@@ -68,7 +68,7 @@ const kusegeProducts: Product[] = [
     description:
       "カーリーヘアのほつれをほぐし、カールを整えるための定番ブラシ。シェイピング・デタングリングを一本でこなす。",
     image: "/images/Denman Curly Brush.png",
-    price: "¥---",
+    price: "¥1,980 税込",
     amazonUrl: "https://amzn.to/4rvbNWL",
     badge: "定番",
     imageContain: true,
@@ -83,7 +83,7 @@ const stylingProducts: Product[] = [
     description:
       "ブラジル発サロンブランドのカール専用クリーム。甘い匂いが特徴的。カールをきれいに出して、一日中キープします。",
     image: "/images/Salon Line Cachos Poderosos.png",
-    price: "¥2,200",
+    price: "¥2,500 税込",
     amazonUrl: "https://amzn.to/4bmuVBL",
     imageContain: true,
     imageScale: "scale-100",
@@ -93,7 +93,7 @@ const stylingProducts: Product[] = [
     description:
       "日本製のカール専用スタイリングジェル。くせ毛・パーマ・天然カールもカールをきれいに出して、一日中崩れないスタイルをキープ。",
     image: "/images/Jigee Styling Gel.png",
-    price: "¥---",
+    price: "¥3,570 税込",
     amazonUrl: "https://amzn.to/3Nt2A3o",
     badge: "国産",
     imageContain: true,
@@ -104,7 +104,7 @@ const stylingProducts: Product[] = [
     description:
       "ココナッツとハイビスカス配合のカールスムージー。カールをきれいに出しながら自然なツヤと柔軟性を一日キープ。",
     image: "/images/SheaMoisture.png",
-    price: "¥---",
+    price: "¥2,900 税込",
     amazonUrl: "https://amzn.to/3PaeKPa",
     imageContain: true,
     imageScale: "scale-100",
