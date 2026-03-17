@@ -42,52 +42,47 @@ const featuredProducts: Product[] = [
 
 const kusegeProducts: Product[] = [
   {
-    name: "ボタニスト ボタニカルヘアオイル モイスト",
+    name: "Jigee Curls ジギーカールズ カールスタイリングクリーム 200g",
     description:
-      "植物由来のヘアオイルが、カーリーヘアのパサつきを抑えてツヤのある髪に。軽い付け心地でベタつかない。",
-    image: "/images/product-oil.jpg",
-    price: "¥1,870",
-    amazonUrl: "https://www.amazon.co.jp/dp/example4?tag=your-affiliate-tag",
-    badge: "ベストセラー",
+      "日本製のカール専用スタイリングクリーム。くせ毛・パーマ・天然カールヘアのうねりを活かして、まとまりのある仕上がりへ。",
+    image: "/images/product-jigee-curls.jpg",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/475aQxb",
+    badge: "国産",
+    imageContain: true,
   },
   {
-    name: "アミノメイソン ディープモイスト シャンプー",
+    name: "SheaMoisture Coconut & Hibiscus Curl Hold Smoothie 340g",
     description:
-      "スーパーアミノ酸とボタニカル成分でダメージを補修。カーリーヘアのまとまりやすさを実感できる。",
-    image: "/images/product-shampoo.jpg",
-    price: "¥1,540",
-    amazonUrl: "https://www.amazon.co.jp/dp/example5?tag=your-affiliate-tag",
+      "ココナッツとハイビスカス配合のカールスムージー。カールを定義しながら自然なツヤと柔軟性を一日キープ。",
+    image: "/images/product-shea-moisture.jpg",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/3PaeKPa",
+    imageContain: true,
   },
   {
-    name: "モロッカンオイル トリートメント",
+    name: "Denman Curly Hair Brush D14 5列 カールブラシ",
     description:
-      "世界中で愛されるアルガンオイルトリートメント。カーリーヘアを柔らかくしながら輝くようなツヤを与えます。",
-    image: "/images/product-conditioner.jpg",
-    price: "¥4,730",
-    amazonUrl: "https://www.amazon.co.jp/dp/example6?tag=your-affiliate-tag",
-    badge: "プレミアム",
+      "カーリーヘアのほつれをほぐし、カールを整えるための定番ブラシ。シェイピング・デタングリングを一本でこなす。",
+    image: "/images/product-denman-brush.jpg",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/4rvbNWL",
+    badge: "定番",
+    imageContain: true,
   },
 ]
 
 
 const stylingProducts: Product[] = [
   {
-    name: "リーゼ ウェーブジュレ",
+    name: "Wavytalk スチームストレートブラシ 3in1 ヘアケアブラシ",
     description:
-      "カールをしっかりキープするジュレタイプ。パリパリせず、自然な動きのあるスタイルが一日続きます。",
-    image: "/images/product-mousse.jpg",
-    price: "¥658",
-    amazonUrl: "https://www.amazon.co.jp/dp/example10?tag=your-affiliate-tag",
-    badge: "コスパ◎",
-  },
-  {
-    name: "プロダクト ヘアワックス",
-    description:
-      "自然由来原料だけで作られたヘアワックス。カールの束感を出しながら、ウェットな質感も楽しめる万能アイテム。",
-    image: "/images/product-mousse.jpg",
-    price: "¥2,178",
-    amazonUrl: "https://www.amazon.co.jp/dp/example12?tag=your-affiliate-tag",
-    badge: "定番人気",
+      "スチーム機能搭載の3in1ヘアアイロンブラシ。ダメージを抑えながら髪を栄養補給しつつ、すばやくスタイリングできる。",
+    image: "/images/product-wavytalk.jpg",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/4bxEtIZ",
+    badge: "多機能",
+    imageContain: true,
   },
 ]
 
