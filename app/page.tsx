@@ -54,6 +54,16 @@ const kusegeProducts: Product[] = [
     imageScale: "scale-100",
   },
   {
+    name: "折り畳み式ヘアドライヤー 大風量 速乾 2億マイナスイオン 57℃恒温",
+    description:
+      "美容師監修の折り畳み式ドライヤー。2億高濃度マイナスイオンで髪のダメージを抑えながら速乾。ディフューザー付きでカールを崩さず乾かせる。",
+    image: "/images/Airflow Dryer.png",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/4do89um",
+    imageContain: true,
+    imageScale: "scale-100",
+  },
+  {
     name: "Denman Curly Hair Brush D14 5列 カールブラシ",
     description:
       "カーリーヘアのほつれをほぐし、カールを整えるための定番ブラシ。シェイピング・デタングリングを一本でこなす。",
