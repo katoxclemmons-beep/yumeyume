@@ -91,7 +91,7 @@ const stylingProducts: Product[] = [
   {
     name: "Jigee Curls ジギーカールズ カールスタイリングジェル 200g",
     description:
-      "日本製のカール専用スタイリングジェル。くせ毛・パーマ・天然カールをしっかり定義して、一日中崩れないスタイルをキープ。",
+      "日本製のカール専用スタイリングジェル。くせ毛・パーマ・天然カールもカールをきれいに出して、一日中崩れないスタイルをキープ。",
     image: "/images/Jigee Styling Gel.png",
     price: "¥---",
     amazonUrl: "https://amzn.to/3Nt2A3o",
