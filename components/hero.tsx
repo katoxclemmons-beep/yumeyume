@@ -17,7 +17,7 @@ export function Hero() {
             </h1>
             <p className="mt-6 text-base md:text-lg text-muted-foreground leading-relaxed max-w-lg mx-auto md:mx-0 text-pretty">
               カーリーヘアは、そのままで美しい。
-              自分らしいカールを楽しむためのヘアケアアイテムを厳選してお届けします。
+              自分らしいカールを<span className="whitespace-nowrap">楽しむための</span>ヘアケアアイテムを厳選してお届けします。
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
               <a
