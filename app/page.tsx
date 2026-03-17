@@ -43,12 +43,13 @@ const featuredProducts: Product[] = [
 
 const kusegeProducts: Product[] = [
   {
-    name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
+    name: "Wavytalk スチームストレートブラシ 3in1 ヘアケアブラシ",
     description:
-      "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
-    image: "/images/Salon Line Cachos Poderosos.png",
-    price: "¥2,200",
-    amazonUrl: "https://amzn.to/4bmuVBL",
+      "スチーム機能搭載の3in1ヘアアイロンブラシ。ダメージを抑えながら髪を栄養補給しつつ、すばやくスタイリングできる。",
+    image: "/images/Wavytalk steam straigten.png",
+    price: "¥---",
+    amazonUrl: "https://amzn.to/4bxEtIZ",
+    badge: "多機能",
     imageContain: true,
     imageScale: "scale-100",
   },
@@ -78,13 +79,12 @@ const kusegeProducts: Product[] = [
 
 const stylingProducts: Product[] = [
   {
-    name: "Wavytalk スチームストレートブラシ 3in1 ヘアケアブラシ",
+    name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
     description:
-      "スチーム機能搭載の3in1ヘアアイロンブラシ。ダメージを抑えながら髪を栄養補給しつつ、すばやくスタイリングできる。",
-    image: "/images/Wavytalk steam straigten.png",
-    price: "¥---",
-    amazonUrl: "https://amzn.to/4bxEtIZ",
-    badge: "多機能",
+      "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
+    image: "/images/Salon Line Cachos Poderosos.png",
+    price: "¥2,200",
+    amazonUrl: "https://amzn.to/4bmuVBL",
     imageContain: true,
     imageScale: "scale-100",
   },
