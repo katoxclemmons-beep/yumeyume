@@ -81,7 +81,7 @@ const stylingProducts: Product[] = [
   {
     name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
     description:
-      "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
+      "ブラジル発サロンブランドのカール専用クリーム。甘い匂いが特徴的。カールをきれいに出して、一日中キープします。",
     image: "/images/Salon Line Cachos Poderosos.png",
     price: "¥2,200",
     amazonUrl: "https://amzn.to/4bmuVBL",
