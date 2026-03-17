@@ -122,7 +122,7 @@ export default function Home() {
         <ProductSection
           id="products"
           title="お気に入り商品"
-          subtitle="カーリーヘアのケアに本当に使えるアイテムを厳選しました"
+          subtitle="実際に使ってよかったアイテムを厳選しました"
           products={featuredProducts}
         />
 
