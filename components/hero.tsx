@@ -16,7 +16,7 @@ export function Hero() {
               <span className="text-primary">もっと好きになる。</span>
             </h1>
             <p className="mt-6 text-base md:text-lg text-muted-foreground leading-relaxed max-w-lg mx-auto md:mx-0 text-pretty">
-              カーリーヘア、あなたの髪はそのままで美しい。
+              カーリーヘアは、そのままで美しい。
               自分らしいカールを楽しむためのヘアケアアイテムを厳選してお届けします。
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
