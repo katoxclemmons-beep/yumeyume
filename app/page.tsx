@@ -29,19 +29,6 @@ const featuredProducts: Product[] = [
     imageScale: "scale-100",
   },
   {
-    name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
-    description:
-      "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
-    image: "/images/Salon Line Cachos Poderosos.png",
-    price: "¥2,200",
-    amazonUrl: "https://amzn.to/4bmuVBL",
-    imageContain: true,
-    imageScale: "scale-100",
-  },
-]
-
-const kusegeProducts: Product[] = [
-  {
     name: "Jigee Curls ジギーカールズ カールスタイリングクリーム 200g",
     description:
       "日本製のカール専用スタイリングクリーム。くせ毛・パーマ・天然カールヘアのうねりを活かして、まとまりのある仕上がりへ。",
@@ -49,6 +36,19 @@ const kusegeProducts: Product[] = [
     price: "¥---",
     amazonUrl: "https://amzn.to/475aQxb",
     badge: "国産",
+    imageContain: true,
+    imageScale: "scale-100",
+  },
+]
+
+const kusegeProducts: Product[] = [
+  {
+    name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
+    description:
+      "ブラジル発サロンブランドのカール専用クリーム。強力なカール定義力でウェーブを一日中キープ。",
+    image: "/images/Salon Line Cachos Poderosos.png",
+    price: "¥2,200",
+    amazonUrl: "https://amzn.to/4bmuVBL",
     imageContain: true,
     imageScale: "scale-100",
   },
