@@ -15,7 +15,7 @@ const featuredProducts: Product[] = [
     amazonUrl: "https://amzn.to/471Pi4s",
     badge: "人気No.1",
     imageContain: true,
-    imageScale: "scale-110",
+    imageScale: "scale-100",
   },
   {
     name: "Skala(スカラ) Crespo Divino カールヘア用 3 in 1 リーブインクリーム 250g",
@@ -26,7 +26,7 @@ const featuredProducts: Product[] = [
     amazonUrl: "https://amzn.to/4cQIXwr",
     badge: "新着",
     imageContain: true,
-    imageScale: "scale-110",
+    imageScale: "scale-100",
   },
   {
     name: "Salon Line Cachos Poderosos カーリーヘア スタイリングクリーム",
@@ -36,7 +36,7 @@ const featuredProducts: Product[] = [
     price: "¥2,200",
     amazonUrl: "https://amzn.to/4bmuVBL",
     imageContain: true,
-    imageScale: "scale-105",
+    imageScale: "scale-100",
   },
 ]
 
@@ -50,6 +50,7 @@ const kusegeProducts: Product[] = [
     amazonUrl: "https://amzn.to/475aQxb",
     badge: "国産",
     imageContain: true,
+    imageScale: "scale-100",
   },
   {
     name: "SheaMoisture Coconut & Hibiscus Curl Hold Smoothie 340g",
@@ -59,6 +60,7 @@ const kusegeProducts: Product[] = [
     price: "¥---",
     amazonUrl: "https://amzn.to/3PaeKPa",
     imageContain: true,
+    imageScale: "scale-100",
   },
   {
     name: "Denman Curly Hair Brush D14 5列 カールブラシ",
@@ -69,6 +71,7 @@ const kusegeProducts: Product[] = [
     amazonUrl: "https://amzn.to/4rvbNWL",
     badge: "定番",
     imageContain: true,
+    imageScale: "scale-100",
   },
 ]
 
@@ -83,6 +86,7 @@ const stylingProducts: Product[] = [
     amazonUrl: "https://amzn.to/4bxEtIZ",
     badge: "多機能",
     imageContain: true,
+    imageScale: "scale-100",
   },
 ]
 
