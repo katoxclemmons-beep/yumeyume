@@ -20,7 +20,7 @@ const featuredProducts: Product[] = [
   {
     name: "Skala(スカラ) Crespo Divino カールヘア用 3 in 1 リーブインクリーム 250g",
     description:
-      "カーリーヘア専用の洗い流し不要クリーム。ほつれをほぐしながらカールを定義し、しっとりまとまる髪へ。",
+      "カーリーヘア専用の洗い流し不要クリーム。ほつれをほぐしながらカールをきれいに出しながら、しっとりまとまる髪へ。",
     image: "/images/Skala(スカラ) Crespo Divino_.png",
     price: "¥1,980",
     amazonUrl: "https://amzn.to/4cQIXwr",
@@ -102,7 +102,7 @@ const stylingProducts: Product[] = [
   {
     name: "SheaMoisture Coconut & Hibiscus Curl Hold Smoothie 340g",
     description:
-      "ココナッツとハイビスカス配合のカールスムージー。カールを定義しながら自然なツヤと柔軟性を一日キープ。",
+      "ココナッツとハイビスカス配合のカールスムージー。カールをきれいに出しながら自然なツヤと柔軟性を一日キープ。",
     image: "/images/SheaMoisture.png",
     price: "¥---",
     amazonUrl: "https://amzn.to/3PaeKPa",
